@@ -1,0 +1,31 @@
+{
+  "name": "middleware-creativeblog",
+  "version": "1.0.0",
+  "description": "REST API, NodeJS, Express, React Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "NodeJS",
+    "Express",
+    "React",
+    "Blog App",
+    "CRUD"
+  ],
+  "author": "Charrie Cabalde",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "objectid": "^3.2.1",
+    "request": "^2.88.2",
+    "request-to-curl": "^0.1.6",
+    "url-encode": "^1.0.5",
+    "url-parse": "^1.4.7"
+  }
+}
